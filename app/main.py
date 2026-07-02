@@ -61,7 +61,7 @@ def color_de(clase, idx: int) -> str:
 # App + CORS abierto para que el dashboard de Vercel pueda llamar
 # ──────────────────────────────────────────────────────────────
 app = FastAPI(
-    title="AutoInsight BNB (Cristian)",
+    title="AutoInsight BNB (Cesar)",
     description="Clasificación de zona crítica nocturna con BernoulliNB",
     version="1.0.0",
 )
